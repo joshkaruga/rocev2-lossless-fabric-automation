@@ -1,0 +1,5 @@
+Phase 1 Session 2 validation - full fabric end-to-end ping
+Date: 2026-05-02
+
+ping host2 -> host1 across the fabric:
+PING 10.1.1.10: 4/4 received, 0% loss, ~3ms RTT, ttl=61 (3 hops via spine layer)
